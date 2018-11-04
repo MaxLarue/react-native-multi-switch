@@ -1,6 +1,8 @@
 # react-native-multi-switch
 A multiple switch widget for react-native
 
+Note: this doesn't work with panResponder
+
 ![horizontal1](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-middle.png "")
 ![horizontal2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-left.png "")
 ![horizontal3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-right.png "")
