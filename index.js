@@ -69,7 +69,7 @@ export default class MultiSwitch extends Component {
                           justifyContent: 'center',
                         }, index === this.state.active ? 
                            this.getStyle(index, this.props.activeContainerStyle) : 
-                           this.getStyle(index, this.props.inactiveContainerStyle)} >
+                           this.getStyle(index, this.props.inactiveContainerStyle)]} >
         {
           this.state.active === index ? 
           React.cloneElement(
