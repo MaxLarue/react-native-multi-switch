@@ -13,6 +13,10 @@
   "keywords": [
     "react-native"
   ],
+  "devDependencies": {
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.47.2"
+  },
   "author": "Maximilien Larue",
   "license": "MIT",
   "bugs": {
