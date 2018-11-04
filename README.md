@@ -1,13 +1,15 @@
 # react-native-multi-switch
 A multiple switch widget for react-native
 
-Note: this doesn't work with panResponder
 
-![horizontal1](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-middle.png "")
-![horizontal2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-left.png "")
-![horizontal3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-right.png "")
+<img src="https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-middle.png" width="200" />
+<img src="https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/vertical-3-up.png" width="200" />
+<img src="https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/background-right.png" width="200" />
+<img src="https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-3.png" width="200" />
+<img src="https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-down-left.png" width="200">
 
 ## install
+
 ```
 $ npm i -s react-native-multi-switch
 ```
@@ -21,6 +23,10 @@ No linking is needed
 ## Usage
 
 Note: these examples use native-base's icon component, but you can use any other component.
+
+![horizontal2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-left.png "")
+![horizontal3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/horizontal-3-right.png "")
+![square3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-down-left.png "")
 
 ```jsx
 import React from 'react'
