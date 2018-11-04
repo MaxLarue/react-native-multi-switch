@@ -1,9 +1,9 @@
 # react-native-multi-switch
 A multiple switch widget for react-native
 
-[horizontal1]: https://github.com/MaxLarue/react-native-multi-switch/assets/horizontal-3-middle.png ""
-[horizontal2]: https://github.com/MaxLarue/react-native-multi-switch/assets/horizontal-3-left.png ""
-[horizontal3]: https://github.com/MaxLarue/react-native-multi-switch/assets/horizontal-3-right.png ""
+[horizontal1]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/horizontal-3-middle.png ""
+[horizontal2]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/horizontal-3-left.png ""
+[horizontal3]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/horizontal-3-right.png ""
 
 ## install
 ```
@@ -79,9 +79,9 @@ export default class Example extends React.Component {
 ## Recipes
 
 ### Vertical
-[vertical1]: https://github.com/MaxLarue/react-native-multi-switch/assets/vertical-3-middle.png ""
-[vertical2]: https://github.com/MaxLarue/react-native-multi-switch/assets/vertical-3-up.png ""
-[vertical3]: https://github.com/MaxLarue/react-native-multi-switch/assets/vertical-3-down.png ""
+[vertical1]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/vertical-3-middle.png ""
+[vertical2]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/vertical-3-up.png ""
+[vertical3]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/vertical-3-down.png ""
 ```javascript
 <MultiSwitch choiceSize={40}
                             activeItemStyle={[{color: 'white'}, {color: 'black'}, {color: 'white'}, ]}
@@ -103,9 +103,9 @@ export default class Example extends React.Component {
 
 ### Other layout
 
-[square1]: https://github.com/MaxLarue/react-native-multi-switch/assets/square-3-middle.png ""
-[square2]: https://github.com/MaxLarue/react-native-multi-switch/assets/square-3-up-left.png ""
-[square3]: https://github.com/MaxLarue/react-native-multi-switch/assets/square-3-down-left.png ""
+[square1]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/square-3-middle.png ""
+[square2]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/square-3-up-left.png ""
+[square3]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/square-3-down-left.png ""
 
 ```javascript
 <MultiSwitch choiceSize={40}
@@ -128,8 +128,8 @@ export default class Example extends React.Component {
 
 ### Making the background color change
 
-[background1]: https://github.com/MaxLarue/react-native-multi-switch/assets/background-3-middle.png ""
-[background2]: https://github.com/MaxLarue/react-native-multi-switch/assets/background-3-right.png ""
+[background1]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/background-3-middle.png ""
+[background2]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/background-3-right.png ""
 
 ```javascript
 <MultiSwitch choiceSize={40}
@@ -176,10 +176,10 @@ export default class Example extends React.Component {
 
 ### More options
 
-[4-1]: https://github.com/MaxLarue/react-native-multi-switch/assets/4-1.png ""
-[4-2]: https://github.com/MaxLarue/react-native-multi-switch/assets/4-2.png ""
-[4-3]: https://github.com/MaxLarue/react-native-multi-switch/assets/4-3.png ""
-[4-4]: https://github.com/MaxLarue/react-native-multi-switch/assets/4-4.png ""
+[4-1]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/4-1.png ""
+[4-2]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/4-2.png ""
+[4-3]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/4-3.png ""
+[4-4]: https://github.com/MaxLarue/react-native-multi-switch/tree/master/assets/4-4.png ""
 
 
 ```javascript
