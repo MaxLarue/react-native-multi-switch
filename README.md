@@ -176,10 +176,10 @@ export default class Example extends React.Component {
 
 ### More options
 
-![4-1](: https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-1.png "")
-![4-2](: https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-2.png "")
-![4-3](: https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-3.png "")
-![4-4](: https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-4.png "")
+![4-1](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-1.png "")
+![4-2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-2.png "")
+![4-3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-3.png "")
+![4-4](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/4-4.png "")
 
 
 ```javascript
