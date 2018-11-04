@@ -103,9 +103,9 @@ export default class Example extends React.Component {
 
 ### Other layout
 
-![square1](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-3-middle.png "")
-![square2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-3-up-left.png "")
-![square3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-3-down-left.png "")
+![square1](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-middle.png "")
+![square2](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-up-left.png "")
+![square3](https://raw.githubusercontent.com/MaxLarue/react-native-multi-switch/master/assets/square-down-left.png "")
 
 ```javascript
 <MultiSwitch choiceSize={40}
