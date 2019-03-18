@@ -15,6 +15,12 @@ export default class MultiSwitch extends Component {
     } 
   }
 
+  UNSAFE_componentWillReceiveProps = (newProps) => {
+    if( this.state.active !== newProps.active ) {
+      this.setState({ active: newProps.active })
+    }
+  }
+
   getLayout(){
     let layout = {...this.props.layout};
     if(layout.horizontal === -1){
